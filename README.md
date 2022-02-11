@@ -1,7 +1,7 @@
-# spy-selfbot
+# axxo-slefbot
 A selfbot created by Risinplayzz, not so perfectly perfect.
 
-discord.gg/spyop
+
 
 updated to v5. its a latest selfbot with all cmds workin' and not patched by discord
 banall and kickall working
@@ -19,4 +19,4 @@ added -
 - 24/7 in vc
 
 
-#risinplayzopforever
+
