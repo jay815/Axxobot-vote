@@ -1,5 +1,5 @@
 # axxo-slefbot
-A selfbot created by Risinplayzz, not so perfectly perfect.
+ not so perfectly perfect.
 
 
 
